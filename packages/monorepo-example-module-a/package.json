@@ -1,13 +1,13 @@
 {
   "name": "worson-monorepo-example-module-a",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "worson-monorepo-example-module-core": "^0.0.2"
+    "worson-monorepo-example-module-core": "^0.0.3"
   },
   "author": "",
   "license": "MIT"
