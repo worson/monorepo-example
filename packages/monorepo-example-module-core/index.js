@@ -1,1 +1,1 @@
-console.log('fixed core')
+console.log('fixed core V0.0.2')
