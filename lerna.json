@@ -5,7 +5,7 @@
   ],
   "version": "0.0.3",
   "changelog": {
-    "repo": "pigcan/monorepo-example",
+    "repo": "worson/monorepo-example",
     "labels": {
       "tag: bugfix": "Bug fix",
       "tag: enhancement": "Enhancement"
